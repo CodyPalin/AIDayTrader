@@ -1,0 +1,6 @@
+#Endpoint
+https://api.alpaca.markets
+#API Key ID
+1234567890abcdefghij
+#Secret Key
+1234567890abcdefghijklmnopqrstuvwxyz
